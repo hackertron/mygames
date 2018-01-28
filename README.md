@@ -3,6 +3,7 @@ games i am working on / worked on
 
 ## UnrealDave
 A classic sci-fi platform game for android and ios devices. 
+![Tutorial](https://github.com/hackertron/mygames/blob/master/dave_tut.gif)
 
 
 # Ping-pong VR
